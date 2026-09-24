@@ -69,3 +69,14 @@ Total: 417.0/500
 Percentage: 83.40%
 Grade: B
 Result: Pass
+
+
+## **🎯 Purpose**
+
+This is my first beginner-level Python project, created to strengthen my understanding of Python fundamentals through practical implementation.
+
+## **👩‍💻 Author**
+
+**Beulah Rani**
+
+B.Tech CSE Student | Aspiring Software Developer
