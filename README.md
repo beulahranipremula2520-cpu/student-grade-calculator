@@ -1,10 +1,10 @@
 🎓 Student Grade Calculator
 
-A beginner-friendly Python project that calculates a student's total marks, percentage, grade, and pass/fail result based on marks entered for five subjects.
+My first beginner-friendly Python project that calculates a student's total marks, percentage, grade, and pass/fail result based on marks entered for five subjects.
 
 📌 Project Overview
 
-This project is created to practice the fundamental concepts of Python by building a simple real-world application.
+This project is created to build strong foundation  in the fundamental concepts of Python by building a simple real-world application.
 
 The program asks the user to enter the student's name and marks for five subjects. It then calculates and displays the student's result.
 
