@@ -37,6 +37,11 @@ The program asks the user to enter the student's name and marks for five subject
 - F-strings
 - Basic arithmetic operations
 
+## **🎯 Purpose**
+
+This is my first beginner-level Python project, created to strengthen my understanding of Python fundamentals through practical implementation.
+
+
 ## **▶️ How to Run**
 
 ### **1. Install Python**
@@ -46,11 +51,6 @@ Make sure Python is installed on your computer.
 ### **2. Download or Clone This Repository**
 
 Open the project in VS Code or any Python-supported editor.
-
-## **🎯 Purpose**
-
-This is my first beginner-level Python project, created to strengthen my understanding of Python fundamentals through practical implementation.
-
 
 
 ### **3. Run the Program**
