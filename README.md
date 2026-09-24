@@ -47,6 +47,17 @@ Make sure Python is installed on your computer.
 
 Open the project in VS Code or any Python-supported editor.
 
+## **🎯 Purpose**
+
+This is my first beginner-level Python project, created to strengthen my understanding of Python fundamentals through practical implementation.
+
+## **👩‍💻 Author**
+
+**Beulah Rani**
+
+B.Tech CSE Student | Aspiring Software Developer
+
+
 ### **3. Run the Program**
 
 ```bash
@@ -71,12 +82,3 @@ Grade: B
 Result: Pass
 
 
-## **🎯 Purpose**
-
-This is my first beginner-level Python project, created to strengthen my understanding of Python fundamentals through practical implementation.
-
-## **👩‍💻 Author**
-
-**Beulah Rani**
-
-B.Tech CSE Student | Aspiring Software Developer
