@@ -37,4 +37,42 @@ The program asks the user to enter the student's name and marks for five subject
 - F-strings
 - Basic arithmetic operations
 
-## **▶
+## **▶️ How to Run**
+
+### **1. Install Python**
+
+Make sure Python is installed on your computer.
+
+### **2. Download or Clone This Repository**
+
+Open the project in VS Code or any Python-supported editor.
+
+### **3. Run the Program**
+
+```bash
+python student_grade_calculator.py
+
+
+### **💻 Example**
+
+Enter student name: Beulah
+Enter marks for subject 1: 85
+Enter marks for subject 2: 78
+Enter marks for subject 3: 92
+Enter marks for subject 4: 74
+Enter marks for subject 5: 88
+
+----- Student Result -----
+Name: Beulah
+Marks: [85.0, 78.0, 92.0, 74.0, 88.0]
+Total: 417.0/500
+Percentage: 83.40%
+Grade: B
+Result: Pass
+
+### **🎯 Purpose**
+This is my first beginner-level Python project, created to strengthen my understanding of Python fundamentals through practical implementation.
+
+###  **👩‍💻 Author**
+Beulah Rani
+B.Tech CSE Student | Aspiring Software Developer
