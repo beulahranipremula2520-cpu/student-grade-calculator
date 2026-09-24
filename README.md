@@ -1,14 +1,14 @@
-🎓 Student Grade Calculator
+**🎓 Student Grade Calculator**
 
 My first beginner-friendly Python project that calculates a student's total marks, percentage, grade, and pass/fail result based on marks entered for five subjects.
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project is created to build strong foundation  in the fundamental concepts of Python by building a simple real-world application.
 
 The program asks the user to enter the student's name and marks for five subjects. It then calculates and displays the student's result.
 
-✨ Features
+**✨ Features**
 
 - Enter student name
 - Enter marks for 5 subjects
@@ -18,11 +18,11 @@ The program asks the user to enter the student's name and marks for five subject
 - Display Pass/Fail result
 - Display the complete student result
 
-🛠️ Technology Used
+**🛠️ Technology Used**
 
 - Python
 
-📚 Python Concepts Used
+**📚 Python Concepts Used**
 
 - Variables
 - "input()" and "print()"
@@ -37,7 +37,7 @@ The program asks the user to enter the student's name and marks for five subject
 - F-strings
 - Basic arithmetic operations
 
-▶️ How to Run
+**▶️ How to Run**
 
 1. Install Python
 
@@ -51,7 +51,7 @@ Open the project in VS Code or any Python-supported editor.
 
 python student_grade_calculator.py
 
-💻 Example
+**💻 Example**
 
 Enter student name: Beulah
 Enter marks for subject 1: 85
@@ -68,11 +68,11 @@ Percentage: 83.40%
 Grade: B
 Result: Pass
 
-🎯 Purpose
+**🎯 Purpose**
 
 This is my first beginner-level Python project, created to strengthen my understanding of Python fundamentals through practical implementation.
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Beulah Rani
 
